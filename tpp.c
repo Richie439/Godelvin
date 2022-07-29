@@ -55,7 +55,7 @@ int main ()
         n--;
     }
     // lorsque en saisie un entier on peut rentrée dans cette boucle 
-    // mm si le code ne pas correct 
+    // mm si le code nest pas correct 
     while (atoi(code)!=tab[i])
     {
         if (i<4)
